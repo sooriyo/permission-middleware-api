@@ -1,0 +1,6 @@
+@PermissionMiddleware.API_HostAddress = http://localhost:5186
+
+GET {{PermissionMiddleware.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
